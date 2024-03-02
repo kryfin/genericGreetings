@@ -5,6 +5,6 @@ import (
 )
 
 func Hello(name string) string {
-	message := fmt.Sprintf("Hi, %v. Welcome NEw mEmber!", name)
+	message := fmt.Sprintf("Hi, %v. Welcome YAOOO!", name)
 	return message
 }
